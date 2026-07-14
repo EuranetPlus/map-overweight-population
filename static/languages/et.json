@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui palju inimesi meie elanikkonnast on ülekaalulised?",
+  "subtitle": "2025. aastaks oli umbes pool ELi elanikkonnast ülekaaluline, Maltal, Rumeenias ja Soomes üle 60 protsendi, samas kui Itaalias oli see määr vaid 37,7 protsenti.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Ülekaaluliste osakaal 16-aastaste ja vanemate elanike seas.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "See on läbi (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "customUnitLabel": "kogu elanikkonnast",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
