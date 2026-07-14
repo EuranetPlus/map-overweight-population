@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Koliko ljudi v naši populaciji ima prekomerno telesno težo?",
+  "subtitle": "Do leta 2025 je imela približno polovica prebivalstva EU prekomerno telesno težo, pri čemer je bil delež na Malti, v Romuniji in na Finskem nad 60 odstotkov, medtem ko je bila v Italiji ta delež le 37,7 odstotka.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Delež prebivalstva, starega 16 let in več, ki ima prekomerno telesno težo.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Konec je (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "customUnitLabel": "celotnega prebivalstva",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
