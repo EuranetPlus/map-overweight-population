@@ -1,13 +1,12 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Cuántas personas de nuestra población tienen sobrepeso?",
+  "subtitle": "Para 2025, aproximadamente la mitad de la población de la UE tenía sobrepeso, con Malta, Rumanía y Finlandia superando el 60 por ciento, mientras que la tasa de Italia era solo del 37,7 por ciento.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Porcentaje de la población de 16 años o más que tiene sobrepeso.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Se acabó (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
+  "customUnitLabel": "de la población total",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
