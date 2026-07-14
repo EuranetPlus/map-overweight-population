@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko ljudi u našoj populaciji ima prekomjernu težinu?",
+  "subtitle": "Do 2025. godine otprilike polovica stanovništva EU-a imala je prekomjernu težinu, s Maltom, Rumunjskom i Finskom iznad 60 posto, dok je stopa u Italiji iznosila samo 37,7 posto.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Udio stanovništva u dobi od 16 i više godina koji ima prekomjernu težinu.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Gotovo je (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
+  "customUnitLabel": "ukupnog stanovništva",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
