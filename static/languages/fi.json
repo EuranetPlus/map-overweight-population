@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka moni väestöstämme on ylipainoinen?",
+  "subtitle": "Vuoteen 2025 mennessä noin puolet EU:n väestöstä oli ylipainoisia, Maltan, Romanian ja Suomen ollessa yli 60 prosenttia, kun taas Italiassa luku oli vain 37,7 prosenttia.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Ylipainoisten osuus 16-vuotiaista ja sitä vanhemmista.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Se on ohi (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "koko väestöstä",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
