@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik cilvēku mūsu iedzīvotāju vidū ir liekais svars?",
+  "subtitle": "Līdz 2025. gadam aptuveni pusei ES iedzīvotāju bija liekais svars, Maltā, Rumānijā un Somijā šis rādītājs pārsniedza 60 procentus, savukārt Itālijā šis rādītājs bija tikai 37,7 procenti.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Iedzīvotāju īpatsvars vecumā no 16 gadiem ar lieko svaru.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Viss ir beidzies (2026. gadā)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "no kopējā iedzīvotāju skaita",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
