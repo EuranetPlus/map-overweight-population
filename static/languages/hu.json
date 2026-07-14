@@ -1,13 +1,12 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Hány túlsúlyos ember van a lakosságunkban?",
+  "subtitle": "2025-re az EU lakosságának körülbelül fele túlsúlyos volt, Máltán, Romániában és Finnországban ez az arány meghaladta a 60 százalékot, míg Olaszországban ez az arány mindössze 37,7 százalék volt.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "A túlsúlyosak aránya a 16 éves és idősebb lakosságon belül.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Vége van (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
+  "customUnitLabel": "a teljes népességből",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
