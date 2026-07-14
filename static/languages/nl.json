@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel mensen in onze bevolking hebben overgewicht?",
+  "subtitle": "In 2025 zal ongeveer de helft van de EU-bevolking overgewicht hebben, met Malta, Roemenië en Finland boven de 60 procent, terwijl het percentage in Italië slechts 37,7 procent bedraagt.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Het percentage van de bevolking van 16 jaar en ouder dat overgewicht heeft.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Het is voorbij (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "van de totale bevolking",
   "tooltipExtraInfoLabel": "Klik hier"
 }
