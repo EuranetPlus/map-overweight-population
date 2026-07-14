@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad duine inár ndaonra atá róthrom?",
+  "subtitle": "Faoi 2025, bhí thart ar leath de dhaonra an AE róthrom, agus bhí Málta, an Rómáin agus an Fhionlainn os cionn 60 faoin gcéad, agus ní raibh ach 37.7 faoin gcéad san Iodáil.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Sciar den daonra atá 16 bliana d’aois agus os a chionn atá róthrom.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Tá deireadh leis (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "den daonra iomlán",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
