@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie viele Menschen in unserer Bevölkerung sind übergewichtig?",
+  "subtitle": "Bis 2025 wird etwa die Hälfte der EU-Bevölkerung übergewichtig sein, wobei Malta, Rumänien und Finnland über 60 Prozent liegen, während die Quote in Italien nur 37,7 Prozent beträgt.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Anteil der Bevölkerung ab 16 Jahren, der übergewichtig ist.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Es ist vorbei (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "der Gesamtbevölkerung",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
