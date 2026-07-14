@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm nies fil-popolazzjoni tagħna għandhom piż żejjed?",
+  "subtitle": "Sal-2025, madwar nofs il-popolazzjoni tal-UE kellha piż żejjed, b'Malta, ir-Rumanija u l-Finlandja 'l fuq minn 60 fil-mija, filwaqt li r-rata tal-Italja kienet biss ta' 37.7 fil-mija.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Is-sehem tal-popolazzjoni ta' 16-il sena jew aktar li għandhom piż żejjed.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Spiċċa kollox (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "tal-popolazzjoni totali",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
