@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Combien de personnes dans notre population sont en surpoids ?",
+  "subtitle": "D'ici 2025, environ la moitié de la population de l'UE sera en surpoids, Malte, la Roumanie et la Finlande dépassant les 60 %, tandis que le taux en Italie n'était que de 37,7 %.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Proportion de la population âgée de 16 ans et plus en surpoids.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "C'est fini (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "de la population totale",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
